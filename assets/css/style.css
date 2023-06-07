@@ -1,7 +1,7 @@
 body{
     margin: 0;
 }
-header {
+header, footer {
     text-align: center;
 }
 #logo {
@@ -38,6 +38,7 @@ span {
 
 #desc-image {
     color: gray;
+    text-align: center;
 }
 
 
